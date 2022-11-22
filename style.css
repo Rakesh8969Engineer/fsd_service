@@ -1,0 +1,30 @@
+
+.settings:hover{
+    box-shadow: 0 0 25px 0 rgba(11, 18, 216, 0.2);
+    cursor: pointer;
+    background-image: linear-gradient(-45deg,#1010ed, 0%,#91eddd 50%);
+
+
+}
+.Backup:hover{
+    box-shadow: 0 0 25px 0 rgba(11, 18, 216, 0.2);
+    cursor: pointer;
+    background-image: linear-gradient(-45deg,#1010ed, 0%,#91eddd 50%);
+    
+    
+    }
+    .Boostup:hover{
+        box-shadow: 0 0 25px 0 rgba(11, 18, 216, 0.2);
+            cursor: pointer;
+            background-image: linear-gradient(-45deg,#1010ed, 0%,#91eddd 50%);
+        
+        
+        }
+        .Privacy:hover{
+            box-shadow: 0 0 25px 0 rgba(11, 18, 216, 0.2);
+            cursor: pointer;
+            background-image: linear-gradient(-45deg,#1010ed, 0%,#91eddd 50%);
+            
+            
+            }
+            
